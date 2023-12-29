@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Osprey Delight Demo</title>
+    <link>https://david-rutkevich.tech/gallery/</link>
+    <description>Recent content in Galleries on Osprey Delight Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Sep 2019 21:57:17 -0700</lastBuildDate><atom:link href="https://david-rutkevich.tech/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CellAlyse</title>
+      <link>https://david-rutkevich.tech/gallery/cellalyse/</link>
+      <pubDate>Wed, 18 Sep 2019 21:57:17 -0700</pubDate>
+      
+      <guid>https://david-rutkevich.tech/gallery/cellalyse/</guid>
+      <description>CellAlyse revolutioniert die Bluttypisierung durch Automatisierung. Es erreicht eine beeindruckende Segmentierungsgenauigkeit von rund 95% und eine Zählgenauigkeit von 97%, was es zum einzigen Modell macht, das praktisch anwendbar ist. Dank seiner innovativen Architektur, die Überlappungen identifizieren kann, ermöglicht CellAlyse die Automatisierung komplexer Analysen bei Krankheiten wie Leukämie und Anämie.</description>
+    </item>
+    
+    <item>
+      <title>Dr.Acula</title>
+      <link>https://david-rutkevich.tech/gallery/dracula/</link>
+      <pubDate>Fri, 17 May 2019 22:25:16 -0700</pubDate>
+      
+      <guid>https://david-rutkevich.tech/gallery/dracula/</guid>
+      <description>Das schnelle Klassifizierungsmodell für weiße Blutzellen. Durch Farb- und Formeigenschaften, welche ohne KI erkannt werden, werden die weißen Blutzellen schnellstmöglichst Segmentiert (~100ms!). Basierend auf eigens entwickelten Eigenschaften, klassifiziert eine Support Vector Machine die Extrahierten Zellen. Dieses Modell ist nicht nur schnell, sondern auch sehr genau (~94%) und überaschend generalisierbar.</description>
+    </item>
+    
+    <item>
+      <title>Simuliation</title>
+      <link>https://david-rutkevich.tech/gallery/simulation/</link>
+      <pubDate>Fri, 12 May 2017 22:25:02 -0700</pubDate>
+      
+      <guid>https://david-rutkevich.tech/gallery/simulation/</guid>
+      <description>Mit einer präzisen 2D-Simulation und einer fortschrittlichen Trainingsmethode für einen KI-Agenten im Bereich des Verstärkungslernens lässt sich die Landung einer Rakete nachstellen. Ohne vorherige Vorgaben führt der Agent Manöver aus, die denjenigen von SpaceX ähneln, einschließlich des Belly-flop Manövers, das für das Starship charakteristisch ist.</description>
+    </item>
+    
+    <item>
+      <title>SeesDisease</title>
+      <link>https://david-rutkevich.tech/gallery/seesdisease/</link>
+      <pubDate>Mon, 15 May 2017 20:00:16 -0700</pubDate>
+      
+      <guid>https://david-rutkevich.tech/gallery/seesdisease/</guid>
+      <description>SeesDisease ist ein KI-Modell, das ohne manuell erstellte Datensätze trainiert wird. Für diesen Zweck wurde ein neuer Datentyp konzipiert, der Positionsinformationen mittels Punkten darstellt und die ungefähre Größe der Objekte durch eine vereinfachte Segmentierung erfasst. Die Architektur des Modells integriert zwei unterschiedliche Modelle, die gemeinsam mittels einer neuartigen Trainingsmethode trainiert werden. Dieses Trainingsverfahren ermöglicht es dem umfangreicheren Modell, von einem kompakteren Modell zu lernen und neue Perspektiven zu adaptieren, was die Generalisierungsfähigkeit signifikant verbessert.</description>
+    </item>
+    
+  </channel>
+</rss>

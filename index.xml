@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Osprey Delight Demo</title>
+    <link>https://david-rutkevich.tech/</link>
+    <description>Recent content on Osprey Delight Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Sep 2019 21:57:17 -0700</lastBuildDate><atom:link href="https://david-rutkevich.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CellAlyse</title>
+      <link>https://david-rutkevich.tech/gallery/cellalyse/</link>
+      <pubDate>Wed, 18 Sep 2019 21:57:17 -0700</pubDate>
+      
+      <guid>https://david-rutkevich.tech/gallery/cellalyse/</guid>
+      <description>CellAlyse revolutioniert die Bluttypisierung durch Automatisierung. Es erreicht eine beeindruckende Segmentierungsgenauigkeit von rund 95% und eine Zählgenauigkeit von 97%, was es zum einzigen Modell macht, das praktisch anwendbar ist. Dank seiner innovativen Architektur, die Überlappungen identifizieren kann, ermöglicht CellAlyse die Automatisierung komplexer Analysen bei Krankheiten wie Leukämie und Anämie.</description>
+    </item>
+    
+    <item>
+      <title>Dr.Acula</title>
+      <link>https://david-rutkevich.tech/gallery/dracula/</link>
+      <pubDate>Fri, 17 May 2019 22:25:16 -0700</pubDate>
+      
+      <guid>https://david-rutkevich.tech/gallery/dracula/</guid>
+      <description>Das schnelle Klassifizierungsmodell für weiße Blutzellen. Durch Farb- und Formeigenschaften, welche ohne KI erkannt werden, werden die weißen Blutzellen schnellstmöglichst Segmentiert (~100ms!). Basierend auf eigens entwickelten Eigenschaften, klassifiziert eine Support Vector Machine die Extrahierten Zellen. Dieses Modell ist nicht nur schnell, sondern auch sehr genau (~94%) und überaschend generalisierbar.</description>
+    </item>
+    
+    <item>
+      <title>Simuliation</title>
+      <link>https://david-rutkevich.tech/gallery/simulation/</link>
+      <pubDate>Fri, 12 May 2017 22:25:02 -0700</pubDate>
+      
+      <guid>https://david-rutkevich.tech/gallery/simulation/</guid>
+      <description>Mit einer präzisen 2D-Simulation und einer fortschrittlichen Trainingsmethode für einen KI-Agenten im Bereich des Verstärkungslernens lässt sich die Landung einer Rakete nachstellen. Ohne vorherige Vorgaben führt der Agent Manöver aus, die denjenigen von SpaceX ähneln, einschließlich des Belly-flop Manövers, das für das Starship charakteristisch ist.</description>
+    </item>
+    
+    <item>
+      <title>SeesDisease</title>
+      <link>https://david-rutkevich.tech/gallery/seesdisease/</link>
+      <pubDate>Mon, 15 May 2017 20:00:16 -0700</pubDate>
+      
+      <guid>https://david-rutkevich.tech/gallery/seesdisease/</guid>
+      <description>SeesDisease ist ein KI-Modell, das ohne manuell erstellte Datensätze trainiert wird. Für diesen Zweck wurde ein neuer Datentyp konzipiert, der Positionsinformationen mittels Punkten darstellt und die ungefähre Größe der Objekte durch eine vereinfachte Segmentierung erfasst. Die Architektur des Modells integriert zwei unterschiedliche Modelle, die gemeinsam mittels einer neuartigen Trainingsmethode trainiert werden. Dieses Trainingsverfahren ermöglicht es dem umfangreicheren Modell, von einem kompakteren Modell zu lernen und neue Perspektiven zu adaptieren, was die Generalisierungsfähigkeit signifikant verbessert.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://david-rutkevich.tech/blog/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-rutkevich.tech/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://david-rutkevich.tech/blog/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-rutkevich.tech/blog/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://david-rutkevich.tech/blog/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-rutkevich.tech/blog/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://david-rutkevich.tech/blog/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-rutkevich.tech/blog/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://david-rutkevich.tech/blog/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://david-rutkevich.tech/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Über mich</title>
+      <link>https://david-rutkevich.tech/about/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>https://david-rutkevich.tech/about/</guid>
+      <description>Ich bin ein selbständiger Forscher im Bereich Computer Vision mit dem Fokus auf Medizin.
+Mein Tätigkeitsfeld erstreckt sich von der Entwicklung hochpräziser Systeme für die automatisierte Blutzellanalyse bis zur Entwicklung neuer Architekturen für selbstlernende neuronale Netze, die die Zukunft der künstlichen Intelligenz prägen.</description>
+    </item>
+    
+  </channel>
+</rss>

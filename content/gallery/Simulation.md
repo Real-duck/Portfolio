@@ -1,7 +1,7 @@
 ---
 weight: 10
 date: "2017-05-12T22:25:02-07:00"
-title: "Simuliation"
+title: "Raketen Simulation"
 image: "Simulation.png"
 alt: "Lande Simulation"
 color: "#0a1922"
